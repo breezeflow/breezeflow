@@ -4,12 +4,11 @@ I’m @BreezeFlow , Just a Coder
 
 ### Languages & Tools
 
-
-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" /></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png" /></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" /></code>
-
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" /></code>
 
 
 
