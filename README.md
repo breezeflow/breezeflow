@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @BreezeFlow , Just a coder ...
 
-<!--- 统计图表
-<a href="https://github.com/breezeflow/"><img align="left" src="https://github-readme-stats.vercel.app/api?username=breezeflow&hide=contribs,prs"/></a>
+
+
+
+<a href="https://github.com/breezeflow/"><img align="left" src="https://github-readme-stats.vercel.app/api?username=breezeflow&show_icons=true&hide=contribs,prs"/></a>
 <a href="https://github.com/breezeflow/"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breezeflow&hide=html,css,styles,Stylus"/></a>
---->
 
 
 <!---
