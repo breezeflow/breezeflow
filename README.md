@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BreezeFlow , Just a coder ...
 
 <a href="https://github.com/breezeflow/"><img align="left" src="https://github-readme-stats.vercel.app/api?username=breezeflow"/></a>
-<a href="https://github.com/breezeflow/"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breezeflow&hide=html,css,styles,Stylus"/></a>
+<a href="https://github.com/breezeflow/"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breezeflow&hide=html,css,styles,Stylus"/></a>
 
 
 
