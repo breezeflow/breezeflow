@@ -3,7 +3,6 @@
 I’m @BreezeFlow , Just a Coder
 
 ### Languages & Tools
-&emsp;&emsp;
 
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=Java)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
