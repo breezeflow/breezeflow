@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @BreezeFlow , Just a coder ...
 
+<a href="https://github.com/breezeflow/"><img align="left" src="https://github-readme-stats.vercel.app/api?username=breezeflow"/></a>
+<a href="https://github.com/breezeflow/"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breezeflow&layout=compact&hide=html,css,styles,Stylus"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=breezeflow)](https://github.com/breezeflow/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breezeflow&layout=compact&hide=html,css,styles,Stylus)](https://github.com/breezeflow/)
+
 
 <!---
 BreezeFlow/BreezeFlow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
