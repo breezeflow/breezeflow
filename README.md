@@ -1,5 +1,13 @@
-- 👋 Hi, I’m @BreezeFlow , Just a coder ...
+### 🙋 Hello
 
+I’m @BreezeFlow , Just a Coder
+
+### Languages & Tools
+&emsp;&emsp;
+
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=Java)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
 
 <!--- 图标统计
@@ -11,3 +19,5 @@
 BreezeFlow/BreezeFlow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!--- ![beautiful github](https://cloud.tencent.com/developer/article/1935731) --->
